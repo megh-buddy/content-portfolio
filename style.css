@@ -1,0 +1,23 @@
+nav > ul > li >a{
+    text-decoration: none;
+    /* color: rgb(55, 32, 9); */
+    
+}
+
+nav > ul > li{
+    display: inline;
+    margin-left: 15px;
+    
+}
+
+.hd-tags{
+    text-align: center;
+}
+
+section{
+    margin-left: 40px;
+}
+
+/* *{
+    background-color: rgba(35, 101, 89, 0.694);
+} */
